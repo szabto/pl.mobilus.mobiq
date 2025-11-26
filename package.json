@@ -2,7 +2,7 @@
     "name": "pl.mobilus.mobiq",
     "version": "1.0.0",
     "main": "app.ts",
-    "type": "module",
+    "type": "commonjs",
     "scripts": {
         "build": "tsc",
         "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
